@@ -19,7 +19,7 @@ const Navbar = () => {
           ml={{ base: 0, sm: 8 }}
           size="lg"
           fontWeight={"thin"}
-          color="blue.500"
+          color="#0d1ecf"
           style={{ fontFamily: "Pacifico" }}
         >
           Resumegen
@@ -40,7 +40,7 @@ const Navbar = () => {
           <Text as="a" href="#" fontSize="lg">
             About
           </Text>
-          <Button colorScheme={"blue"} fontWeight={"medium"}>
+          <Button colorScheme={"#0d1ecf"} fontWeight={"medium"}>
             Contact
           </Button>
         </HStack>

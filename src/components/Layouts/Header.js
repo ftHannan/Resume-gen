@@ -23,7 +23,7 @@ const Header = () => {
           <Stack flex={1} direction={"column"} spacing={4}>
             <Heading
               fontSize={{ base: "3xl", md: "5xl" }}
-              bgGradient="linear(to-r, blue.500, blue.600)"
+              bgGradient="linear(to-r, #0d1ecf, #0d1ecf)"
               bgClip="text"
             >
               If You Want to Start Winning, Start with a Winning Resume
@@ -50,7 +50,7 @@ const Header = () => {
                 rounded={"md"}
                 size={"lg"}
                 px={6}
-                colorScheme={"blue"}
+                colorScheme={"#0d1ecf"}
               >
                 Build Resume
               </Button>
