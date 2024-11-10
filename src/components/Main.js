@@ -44,7 +44,7 @@ const Main = () => {
           <Button
             rightIcon={<MdOutlineFileDownload />}
             onClick={handlePrint}
-            colorScheme={"#0d1ecf"}
+            colorScheme={"blue"}
           >
             Download
           </Button>
